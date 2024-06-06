@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nayeem9553
 - 👀 I’m interested in Problem solving 
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Open Source Projects and Data related works
 - 📫 How to reach me on twitter https://twitter.com/Nayeem_bin_reza
 
