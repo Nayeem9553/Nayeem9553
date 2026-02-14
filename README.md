@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nayeem9553
 - 👀 I’m interested in DataScience and Problem solving 
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Machine Learning and Data Visualization Tools
 - 💞️ I’m looking to collaborate on Open Source Projects and Data related works
 - 📫 How to reach me on twitter https://twitter.com/Nayeem_bin_reza
 
